@@ -36,7 +36,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
 
-
+## 🚀 Deploy 
+Para acessar o link do projeto [clique aqui](https://rocketpay-omega-eight.vercel.app/)
 
 ## 🔖 Layout
 
